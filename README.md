@@ -42,7 +42,7 @@
 * Tipos de operadores com Python ✔️
 * Estruturas condicionais e de repetição em Python ✔️
 * Manipulando strings com Python ✔️
-* **Desafio**: [Criando um sistema bancário com Python]() ✔️
+* **Desafio**: [Criando um sistema bancário com Python](https://github.com/biachristie/dio-bootcamp-backend-com-python/blob/main/Desafios/Desafios_projeto/desafio01_sistema_bancario.py) ✔️
 * Desafios de código: aperfeiçoe sua lógica e pensamento computacional ✔️
 * **Desafio de código**: explorando operadores e manipulação de strings ✔️
 
@@ -50,11 +50,11 @@
 <br>
 
 **3. Estruturas de Dados e Listas com Python**
-* Trabalhando com listas em Python
-* Conhecendo tuplas em Python
-* Explorando conjuntos em Python
-* Aprendendo a utilizar dicionários em Python
-* **Desafio de código**: Aplicando estruturas de dados e listas
+* Trabalhando com listas em Python ✔️
+* Conhecendo tuplas em Python ✔️
+* Explorando conjuntos em Python ✔️
+* Aprendendo a utilizar dicionários em Python ✔️
+* **Desafio de código**: Aplicando estruturas de dados e listas ✔️
 
 <br>
 <br>
