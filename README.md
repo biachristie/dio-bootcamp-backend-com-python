@@ -60,9 +60,9 @@
 <br>
 
 **4. Trabalhando com Funções em Python**
-* Dominando funções em Python
-* **Desafio**: [Otimizando o sistema bancário com funções Python]()
-* **Desafio de código**: Praticando funções em Python
+* Dominando funções em Python ✔️
+* **Desafio**: [Otimizando o sistema bancário com funções Python](https://github.com/biachristie/dio-bootcamp-backend-com-python/blob/main/Desafios/Desafios_projeto/desafio02_otimizando_sistema_bancario.py) ✔️
+* **Desafio de código**: Praticando funções em Python ✔️
 
 <br>
 <br>
