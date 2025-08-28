@@ -68,22 +68,22 @@
 <br>
 
 **5. Orientação a Objetos e Boas Práticas em Python**
-* Introdução à programação orientada a objetos (POO) com Python
-* Aprendendo o conceito de herança com Python
-* Aplicando encapsulamento em Python
-* Conhecendo polimorfismo em Python
-* Interfaces e classes abstratas com Python
-* **Desafio**: [Modelando o sistema bancário em POO com Python]()
-* **Desafio de código**: Orientação a objetos e padrões de código
+* Introdução à programação orientada a objetos (POO) com Python ✔️
+* Aprendendo o conceito de herança com Python ✔️
+* Aplicando encapsulamento em Python ✔️
+* Conhecendo polimorfismo em Python ✔️
+* Interfaces e classes abstratas com Python ✔️
+* **Desafio**: [Modelando o sistema bancário em POO com Python]() ✔️
+* **Desafio de código**: Orientação a objetos e padrões de código ✔️
 
 <br>
 <br>
 
 **6. Trabalhando com Pacotes em Python**
-* Decoradores, iteradores e geradores com Python
-* Lidando com data, hora e fuso horário no Python
-* Manipulando arquivos em Python
-* Gerenciamento de pacotes, convenções e boas práticas Python
+* Decoradores, iteradores e geradores com Python ✔️
+* Lidando com data, hora e fuso horário no Python ✔️
+* Manipulando arquivos em Python ✔️
+* Gerenciamento de pacotes, convenções e boas práticas Python ✔️
 * **Desafio de código**: Praticando desenvolvimento em Python
 
 <br>
